@@ -11,3 +11,4 @@
 + Refresh
 + Self DESTRUCT
 + Patched Memmory Leak
++ Added Discord RPC
