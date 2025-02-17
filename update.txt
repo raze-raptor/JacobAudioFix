@@ -1,1 +1,1 @@
-https://github.com/raze-raptor/JacobAudioFix/releases/tag/V1.0.2-Release
+https://github.com/raze-raptor/JacobAudioFix/releases/tag/V1.0.3
