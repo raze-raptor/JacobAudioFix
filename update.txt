@@ -1,1 +1,1 @@
-https://github.com/raze-raptor/JacobAudioFix/releases/download/V1.0.1/AudioFix.zip
+https://github.com/raze-raptor/JacobAudioFix/releases/download/V1.0.1/JacobFix.exe
