@@ -1,4 +1,5 @@
-- AutoUpdate
-- Added dark mode
-+ Planned to make ts dragable
-
++ AutoUpdate
++ Change Label
++ Cut the file size (I think)
++ Eisier Download
++ Hidden Resources (Enable Hidden Files to see)
