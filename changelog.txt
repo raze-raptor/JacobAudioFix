@@ -1,1 +1,4 @@
+- AutoUpdate
+- Added dark mode
++ Planned to make ts dragable
 
