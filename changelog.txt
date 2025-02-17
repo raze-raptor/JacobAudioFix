@@ -1,5 +1,13 @@
 + AutoUpdate
-+ Change Label
-+ Cut the file size (I think)
++ Added an Extra Page
++ Increase File Size
 + Eisier Download
 + Hidden Resources (Enable Hidden Files to see)
+- Play Audio Feature in the works
+- Page 2 Improvement to be added.
++ Renamed some Buttons
++ More Buttons
++ Show Input Devices
++ Refresh
++ Self DESTRUCT
++ Patched Memmory Leak
